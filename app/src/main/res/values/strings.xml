@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExTabs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="flash">Flash</string>
+    <string name="poderes">Super speed, intangibility, superhuman agility</string>
+    <string name="SuperMan">Superman</string>
+    <string name="poderes_superman">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="mujerMaravilla">Mujer Maravilla</string>
+    <string name="poderes_MujerMaravilla">Super strength, invulnerability, flight, combat skill, combat strategy, superhuman agility, healing factor, magic weaponry</string>
+
+</resources>
